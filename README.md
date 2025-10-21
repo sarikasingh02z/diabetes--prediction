@@ -1,6 +1,5 @@
 Diabetes prediction project
 
-
 This Machine learning project predicts whether a person is likely to have diabetes based on medical diagnostic measurement such as glucose level, blood pressure, BMI , insulin, DiabetesPedigreeFunction. it uses a ml model trained on real world  health data to provide accurate prediction and assis in early diagnosis.
 
 Objective:
