@@ -1,0 +1,13 @@
+.anaconda 
+.cache  
+.conda  
+.gradio  
+.ipynb_checkpoints  
+AppData/  
+Downloads/  
+Music/  
+"*checkpoint*"  
+"*.pkl"  
+"*.joblib"  
+"*.csv"  
+"*.png" 
